@@ -4,6 +4,13 @@ body {
     padding: 40px;
     margin: 0;
     text-align: center;
+    background-image: url('plano.jpg');
+    background-size: 100% 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 100vh;
 }
 
 .contato-container {
