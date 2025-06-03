@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 40px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.badges img {
+    margin: 5px;
+    height: 30px;
+    vertical-align: middle;
+}
+
+.habilidades {
+  display: inline-block;
+  text-align: left;
+  list-style-position: inside;
+  margin-bottom: 30px;
+}
+
+
+.menu {
+    width: 100%;
+    background-color: #333;
+    padding: 10px 0;
+}
+
+.menu nav ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+.menu nav ul li {
+    margin: 0 15px;
+}
+
+.menu nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    transition: color 0.3s;
+}
+
+.menu nav ul li a:hover {
+    color: #00ccff;
+}
