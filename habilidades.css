@@ -6,6 +6,7 @@ body {
 }
 
 h1 {
+    text-align:center;
     font-size: 24px;
     margin-bottom: 20px;
     color: #333;
@@ -18,12 +19,19 @@ h1 {
 }
 
 .habilidades {
-  display: inline-block;
-  text-align: left;
-  list-style-position: inside;
-  margin-bottom: 30px;
+    display: inline-block;
+    text-align: left;
+    list-style-position: inside;
+    margin-bottom: 30px;
 }
 
+.ferramenta{
+    margin-right: 280px;
+}
+
+.ferramentas {
+    margin-right: 465px
+}
 
 .menu {
     width: 100%;
