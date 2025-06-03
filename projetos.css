@@ -1,64 +1,72 @@
 body {
-  font-family: Arial, sans-serif;
-  background-color: #f4f4f4;
-  padding: 40px;
-  text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 40px;
+    text-align: center;
+    background-image: url('plano.jpg');
+    background-size: 100% 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 100vh;
 }
 
 h1 {
-  font-size: 26px;
-  color: #333;
-  margin-bottom: 20px;
+    font-size: 26px;
+    color: #333;
+    margin-bottom: 20px;
 }
 
 .lista-projetos {
-  list-style-position: inside;
-  display: inline-block;
-  text-align: left;
-  margin-top: 10px;
-  margin-right: 223px;
+    list-style-position: inside;
+    display: inline-block;
+    text-align: left;
+    margin-top: 10px;
+    margin-right: 223px;
 }
 
 .lista-projetos li {
-  margin: 10px 0;
+    margin: 10px 0;
 }
 
 .lista-projetos a {
-  color: #0066cc;
-  text-decoration: none;
-  font-size: 18px;
+    color: #0066cc;
+    text-decoration: none;
+    font-size: 18px;
 }
 
 .lista-projetos a:hover {
-  text-decoration: underline;
+    text-decoration: underline;
 }
 
 .menu {
-  width: 100%;
-  background-color: #333;
-  padding: 10px 0;
+    width: 100%;
+    background-color: #333;
+    padding: 10px 0;
+    margin-left: 5px;
 }
 
 .menu nav ul {
-  display: flex;
-  justify-content: center;
-  list-style: none;
-  padding: 0;
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
 }
 
 .menu nav ul li {
-  margin: 0 15px;
+    margin: 0 15px;
 }
 
 .menu nav ul li a {
-  color: white;
-  text-decoration: none;
-  font-size: 18px;
-  transition: color 0.3s;
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    transition: color 0.3s;
 }
 
 .menu nav ul li a:hover {
-  color: #00ccff;
+    color: #00ccff;
 }
 
 .badges img {
