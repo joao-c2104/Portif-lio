@@ -3,6 +3,13 @@ body {
     background-color: #f4f4f4;
     padding: 40px;
     text-align: center;
+    background-image: url('plano.jpg');
+    background-size: 100% 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 100vh;
 }
 
 h1 {
@@ -18,19 +25,24 @@ h1 {
     vertical-align: middle;
 }
 
+.habilidade {
+    color: black;
+}
+
 .habilidades {
     display: inline-block;
     text-align: left;
     list-style-position: inside;
     margin-bottom: 30px;
+    margin-right: 100px;
 }
 
 .ferramenta{
-    margin-right: 280px;
+    margin-right: 170px;
 }
 
 .ferramentas {
-    margin-right: 465px
+    margin-right: 395px
 }
 
 .menu {
