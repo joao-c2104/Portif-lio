@@ -42,3 +42,5 @@ Alguns dos meus projetos disponíveis no GitHub:
 
 - **Email:** joaocarlosv.2104@gmail.com  
 - **LinkedIn:** [João Carlos Vasconcelos de Gusmão](https://www.linkedin.com/in/joão-carlos-vasconcelos-de-gusmão-759996368/)
+
+---
